@@ -6,7 +6,10 @@
 Welcome to test docs's documentation!
 =====================================
 
+.. toctree::
+   :caption: Table of Contents
 
+   intro
 
 Indices and tables
 ==================
